@@ -8,7 +8,7 @@ app.post("/api", async (req, res) => {
           "Content-Type": "application/x-www-form-urlencoded",
         },
         body: new URLSearchParams(
-          `grant_type=client_credentials&client_id=WidyPIe0n1gWoF94FuF1fUpRfFqPehkP&client_secret=zMbUATDy4dWKuIqz`
+          `grant_type=client_credentials&client_id=CHANGE KARO ISKO&client_secret=CHANGE KARO ISKO`
         ),
       }
     );
